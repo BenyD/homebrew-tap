@@ -25,7 +25,7 @@ cask "hay" do
   end
 
   name "hay"
-  desc "Private search and Q&A for your documents. One binary, fully local."
+  desc "Private search and Qdesc "Private search and Q&A for your documents. One binary, fully local."A for your documents. One binary, fully local."
   homepage "https://github.com/BenyD/haypile"
 
   livecheck do
